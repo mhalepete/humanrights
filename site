@@ -3,12 +3,29 @@
 <html>
      <head>
           <meta charset="utf-8">
-          <h1>Human Rights</h1>
+
+<html>
+    <head>
+         <link href="https://fonts.googleapis.com/css?family=Meddon|Lato|Quicksand" 
+                      rel="stylesheet">
+
+<body>
+<div style="font-family: 'Meddon', cursive; font-size: 36px;">Human Rights</div> 
           <link rel="canonical" 
                      https://en.wikipedia.org/wiki/Human_rights>
+          </body> <br />
+
+<html> 
+     <head>
+      <style>
+            body {
+                 font-family: 'Lato', sans-serif; font-size: 18px
+              } </style>
+      </head>
+
 <strong>History of the Concept of Human Rights</strong><br /><br />
-     </head>
-     <body>
+ 
+<body>
 
 Watch the below video on human rights as an introduction. (Source: <a href="https://www.youtube.com/watch?v=nDgIVseTkuE"> TED-Ed</a>) <br /><br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nDgIVseTkuE?ecver=1" frameborder="0" allowfullscreen></iframe>
@@ -19,18 +36,14 @@ Although ideas of rights and liberty have existed in some form for much of human
 
 The modern sense of human rights can be traced to Renaissance Europe and the Protestant Reformation, alongside the disappearance of the feudal authoritarianism and religious conservativism that dominated the Middle Ages. One theory is that human rights were developed during the early Modern period, alongside the European secularisation of Judeo-Christian ethics.[15] The most commonly held view is that the concept of human rights evolved in the West, and that while earlier cultures had important ethical concepts, they generally lacked a concept of human rights. For example, McIntyre argues there is no word for "right" in any language before 1400.[11] Medieval charters of liberty such as the English Magna Carta were not charters of human rights, rather they were the foundation[16] and constituted a form of limited political and legal agreement to address specific political circumstances, in the case of Magna Carta later being recognised in the course of early modern debates about rights.[17] One of the oldest records of human rights is the statute of Kalisz (1264), giving privileges to the Jewish minority in the Kingdom of Poland such as protection from discrimination and hate speech.[18] Samuel Moyn suggests that the concept of human rights is intertwined with the modern sense of citizenship, which did not emerge until the past few hundred years.[19]
 
-<h2>The UN Declaration of Human Rights</h2>
+<h2>The United Nations Declaration of Human Rights</h2>
 
-<img src=//www.un.org/sites/www.un.org/files/2015/10/07/universal-declaration-human-rights.jpg 
-alt="Image of the UN Declaration of Human Rights."
-
-<br /> 
-
-<br /><br />
-<strong>Here is a description from the <a href=<"//www.un.org/en/universal-declaration-human-rights/"> UN website</a> about the document:</strong>
+<strong>Here is a description from the <a href=<"http://www.un.org/en/universal-declaration-human-rights">United Nations website</a> about the document:</strong>
 <blockquote>
 "The Universal Declaration of Human Rights (UDHR) is a milestone document in the history of human rights. Drafted by representatives with different legal and cultural backgrounds from all regions of the world, the Declaration was proclaimed by the United Nations General Assembly in Paris on 10 December 1948 (<a href="http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/217(III)">General Assembly resolution 217 A</a>) as a common standard of achievements for all peoples and all nations. It sets out, for the first time, fundamental human rights to be universally protected and it has been translated into over 500 languages."
-</blockquote>
+</blockquote> <br />
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/EleanorRooseveltHumanRights.png/220px-EleanorRooseveltHumanRights.png
+alt="Image of the United Nations Declaration of Human Rights."
 
 </body>
 </html>
