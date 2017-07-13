@@ -4,16 +4,22 @@
      <head>
           <meta charset="utf-8">
 
+<!-- Setting up Google Fonts -->
+
 <html>
     <head>
          <link href="https://fonts.googleapis.com/css?family=Meddon|Lato|Quicksand" 
                       rel="stylesheet">
 
+<!-- Heading - Meddon Font -->
+
 <body>
 <div style="font-family: 'Meddon', cursive; font-size: 36px;  text-shadow: 2px 2px 2px #C0C0C0; ">Human Rights</div> 
           <link rel="canonical" 
                      https://en.wikipedia.org/wiki/Human_rights>
-          </body> <br />
+          </body> 
+
+<!-- Body - Lato Font -->
 
 <html> 
      <head>
@@ -23,7 +29,9 @@
               } </style>
       </head>
 
-<strong>History of the Concept of Human Rights</strong><br /><br />
+<!-- TED-Ed Video on Human Rights -->
+
+<h2> <strong>Introductory Video on Human Rights</strong> </h2>
  
 <body>
 
@@ -32,9 +40,15 @@ Watch the below video on human rights as an introduction. (Source: <a href="http
 
 <br /><br />
 
+<!-- Wikipedia Content on Human Rights -->
+
+<h2><strong>History of the Concept of Human Rights</strong></h2>
+
 Although ideas of rights and liberty have existed in some form for much of human history, there is agreement that the earlier conceptions do not closely resemble the modern conceptions of human rights. According to Jack Donnelly, in the ancient world, "traditional societies typically have had elaborate systems of duties... conceptions of justice, political legitimacy, and human flourishing that sought to realise human dignity, flourishing, or well-being entirely independent of human rights. These institutions and practices are alternative to, rather than different formulations of, human rights".[14] The history of human rights can be traced to past documents, particularly Constitution of Medina (622), Al-Risalah al-Huquq (659-713), Magna Carta (1215), the Twelve Articles of Memmingen (1525), the English Bill of Rights (1689), the French Declaration of the Rights of Man and of the Citizen (1789), and the Bill of Rights in the United States Constitution (1791).[1]<br /><br />
 
 The modern sense of human rights can be traced to Renaissance Europe and the Protestant Reformation, alongside the disappearance of the feudal authoritarianism and religious conservativism that dominated the Middle Ages. One theory is that human rights were developed during the early Modern period, alongside the European secularisation of Judeo-Christian ethics.[15] The most commonly held view is that the concept of human rights evolved in the West, and that while earlier cultures had important ethical concepts, they generally lacked a concept of human rights. For example, McIntyre argues there is no word for "right" in any language before 1400.[11] Medieval charters of liberty such as the English Magna Carta were not charters of human rights, rather they were the foundation[16] and constituted a form of limited political and legal agreement to address specific political circumstances, in the case of Magna Carta later being recognised in the course of early modern debates about rights.[17] One of the oldest records of human rights is the statute of Kalisz (1264), giving privileges to the Jewish minority in the Kingdom of Poland such as protection from discrimination and hate speech.[18] Samuel Moyn suggests that the concept of human rights is intertwined with the modern sense of citizenship, which did not emerge until the past few hundred years.[19]
+
+<!-- UN Declaration of Human Rights -->
 
 <h2>The United Nations Declaration of Human Rights</h2>
 
@@ -49,11 +63,13 @@ The modern sense of human rights can be traced to Renaissance Europe and the Pro
 <br />
 
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/EleanorRooseveltHumanRights.png/220px-EleanorRooseveltHumanRights.png
-alt="Image of the United Nations Declaration of Human Rights." 
+alt="Eleanor Roosevelt and the Declaration of Human Rights." 
 
 <br /><br /><br />
 
 <i> Above: Eleanor Roosevelt holds up the Universal Declaration of Human Rights in Spanish. </i>
+
+<!-- DISCLAIMER -->
 
 <br /><br />
 
