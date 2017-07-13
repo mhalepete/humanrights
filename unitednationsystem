@@ -11,22 +11,12 @@ rel="stylesheet">
 <style>
 
 div.container {
-    width: 100%;
     border: 3px solid black;
-}
-
-header, footer {
-    padding: 1em;
-    color: white;
-    background-color: black;
-    clear: left;
-    text-align: center;
 }
 
 nav {
     float: left;
     max-width: 160px;
-    margin: 0;
     padding: 1em;
 }
 
@@ -36,22 +26,19 @@ nav ul {
 }
    
 nav ul a {
-    text-decoration: none;
 }
 
 article {
     margin-left: 170px;
     border-left: 1px solid black;
     padding: 1em;
-    overflow: shown;
-}
 </style>
 
 <div class="container">
 
 <body>
 <div style="font-family: 'Meddon', cursive; font-size: 36px;  text-shadow: 2px 2px 2px #C0C0C0; ">United Nations System</div> 
-<link rel="canonical" https://en.wikipedia.org/wiki/Human_rights>
+<link rel="canonical" https://en.wikipedia.org/wiki/United_Nations_System>
 </body> 
   
 <html> 
