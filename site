@@ -66,13 +66,119 @@ alt="Eleanor Roosevelt and the Declaration of Human Rights."
 
 <br /><br /><br />
 
-<i> Above: Eleanor Roosevelt holds up the Universal Declaration of Human Rights in Spanish. </i>
+<i> Above: Eleanor Roosevelt holds up the Universal Declaration of Human Rights in Spanish. </i> 
+
+<br /><br /><br />
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Meddon|Lato|Quicksand" 
+rel="stylesheet">
+</head>
+
+<style>
+
+div.container {
+    width: 100%;
+    border: 3px solid black;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid black;
+    padding: 1em;
+    overflow: shown;
+}
+</style>
+
+<div class="container">
+
+<body>
+<div style="font-family: 'Meddon', cursive; font-size: 36px;  text-shadow: 2px 2px 2px #C0C0C0; ">United Nations System</div> 
+<link rel="canonical" https://en.wikipedia.org/wiki/Human_rights>
+</body> 
+  
+<html> 
+     <head>
+      <style>
+            body {
+                 font-family: 'Lato', sans-serif; font-size: 18px
+              } </style>
+      </head>  
+  
+<nav>
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/United_Nations_Security_Council">Security Council</a></li>
+  </ul>
+</nav>
+
+<article>
+<p> The United Nations Security Council has the primary responsibility for maintaining international peace and security and is the only body of the UN that can authorise the use of force. It has been criticised for failing to take action to prevent human rights abuses, including the Darfur crisis, the Srebrenica massacre and the Rwandan Genocide.[54] For example, critics blamed the presence of non-democracies on the Security Council for its failure regarding.[55] </p>
+
+<p> On April 28, 2006 the Security Council adopted resolution 1674 that reaffirmed the responsibility to protect populations from genocide, war crimes, ethnic cleansing and crimes against humanity" and committed the Security Council to action to protect civilians in armed conflict.[56]</p>
+</article>
+
+<nav>
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/United_Nations_General_Assembly">General Assembly</a></li>
+  </ul>
+</nav>
+
+<article>
+<p>The United Nations General Assembly, under Article 13 of the UN Charter, has the power to initiate studies and make recommendations on human rights issues.[57] Under this provision, the general assembly passed the Universal Declaration of Human Rights in 1948, and since then a wide variety of other human rights instruments.[57]</p> 
+
+<p>The assembly has several subsidiary organs that deal with specific human rights issues, such as the Special Committee on Decolonisation and the Special Commission against Apartheid (no longer operational). In addition the general assembly has set up a number of subsidiary organs that consider human rights issues in a number of high-profile contexts: such as the UN Council on Namibia, the Special Committee to Investigate Israeli Practises in the Occupied territories and the Committee on the Exercise of the Inalienable rights of the Palestine People.[58]</p> </article>
+
+<nav>
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/United_Nations_Human_Rights_Council">Human Rights Council</a></li>
+  </ul>
+</nav>
+
+<article>
+<p> The United Nations Human Rights Council, created at the 2005 World Summit to replace the United Nations Commission on Human Rights, has a mandate to investigate violations of human rights.[59] The Human Rights Council is a subsidiary body of the General Assembly[60] and reports directly to it. It ranks below the Security Council, which is the final authority for the interpretation of the United Nations Charter.[61] Forty-seven of the one hundred ninety-one member states sit on the council, elected by simple majority in a secret ballot of the United Nations General Assembly. </p>
+
+<p> Members serve a maximum of six years and may have their membership suspended for gross human rights abuses. The Council is based in Geneva, and meets three times a year; with additional meetings to respond to urgent situations.[62] Independent experts (rapporteurs) are retained by the Council to investigate alleged human rights abuses and to provide the Council with reports. The Human Rights Council may request that the Security Council take action when human rights violations occur. This action may be direct actions, may involve sanctions, and the Security Council may also refer cases to the International Criminal Court (ICC) even if the issue being referred is outside the normal jurisdiction of the ICC.[63] </p> </article>
+
+</div>
+
+</body>
+</html>
+
 
 <!-- DISCLAIMER -->
 
 <br /><br />
 
-<strong> The text content of this site was lovingly borrowed from the Wikipedia article on "Human rights" and "Universal Declaration of Human Rights" on July 12, 2017 under the Creative Commons Attribution-ShareAlike License. Licensing terms of content from other sources (photos, etc.) is noted along with each respective resource. </strong> 
+<strong> ***The text content of this site was lovingly borrowed from the Wikipedia article on "Human rights" and "Universal Declaration of Human Rights" on July 12, 2017 under the Creative Commons Attribution-ShareAlike License. Licensing terms of content from other sources (photos, etc.) is noted along with each respective resource.*** </strong> 
 
 </body>
 </html>
